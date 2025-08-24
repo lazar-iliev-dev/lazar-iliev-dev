@@ -1,12 +1,10 @@
 <h1 align="center"><h1 align="center">Hey there I'm <a href="https://github.com/lazar-iliev-dev">Lazar</a>👋</h1></h1>
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
-<h5 align="left">I am a junior developer with a focus on .NET / C# and mainly build web APIs. I am continuously learning and working on hands-on projects with Docker, Postgres, Supabase and Reader integrations. Not only that, but I am looking forward to feedback, mentoring and joint projects!</h5>
+<h3 align="center">I am a junior developer with a focus on .NET / C# and mainly build web APIs. 
+  I am continuously learning and working on hands-on projects with Docker, Postgres, Supabase and Reader integrations. Not only that, but I am looking forward to feedback, mentoring and joint projects!
+</h3>
 
 ###
 
