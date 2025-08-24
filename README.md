@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <img src="https://raw.githubusercontent.com/lazar-iliev-dev/lazar-iliev-dev/output/snake.svg" alt="Snake animation" />
 
 ###
