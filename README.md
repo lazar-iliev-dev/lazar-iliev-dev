@@ -1,49 +1,33 @@
-## Hi there 👋
+<h1 align="center"><h1 align="center">Hey there I'm <a href="https://github.com/lazar-iliev-dev">Lazar</a>👋</h1></h1>
 
-<!--
-**lazar-iliev-dev/lazar-iliev-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h3 align="left">👩‍💻  About Me</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h5 align="left">I am a junior developer with a focus on .NET / C# and mainly build web APIs. I am continuously learning and working on hands-on projects with Docker, Postgres, Supabase and Reader integrations. Not only that, but I am looking forward to feedback, mentoring and joint projects!</h5>
+
+###
+
 <img src="https://raw.githubusercontent.com/lazar-iliev-dev/lazar-iliev-dev/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=lazar-iliev-dev.lazar-iliev-dev&right_color=cyan"  />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lazar-iliev-dev.lazar-iliev-dev&left_color=blueviolet&right_color=darkblue"  />
+</div>
 
 ###
